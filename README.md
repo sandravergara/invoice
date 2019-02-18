@@ -1,26 +1,26 @@
 # invoice
-Chaincode and rest/json based node.js application
+
+**Chaincode and rest/json based node.js application**
+
+**Creating Invoice using Hyperledger Fabric | Mandatory**
 
 
-Creating Invoice using Hyperledger Fabric | Mandatory
-
-
-GO Version: go version go1.11.5 linux/amd64
-OS: Ubuntu 18.04 LTS
+**GO Version**: go version go1.11.5 linux/amd64
+**OS**: Ubuntu 18.04 LTS
 
 Installing the prerequisites
 
-Step 1
+**Step 1**
 
-Download Go Language in this link https://golang.org/doc/install  and follow the step by step installation.
-Set your gopath by opening the terminal and run echo $GOPATH
+1. Download Go Language in this link https://golang.org/doc/install  and follow the step by step installation.
+2. Set your gopath by opening the terminal and run echo $GOPATH
 
 Step 2
 
-Clone this repository by running 
+1. Clone this repository by running 
 git clone https://github.com/ssvergara/invoice.git
-Open the Fabcar folder and copy all the files except the node modules
-Create a folder named Fabcar under fabric-samples/  and paste the files we copied earlier.
+2. Open the Fabcar folder and copy all the files except the node modules
+3. Create a folder named Fabcar under fabric-samples/  and paste the files we copied earlier.
 
 
 Output
