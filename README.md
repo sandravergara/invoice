@@ -1,4 +1,4 @@
-# invoice
+# Invoice
 
 **Chaincode and rest/json based node.js application**
 
@@ -15,7 +15,7 @@ Installing the prerequisites
 1. Download Go Language in this link https://golang.org/doc/install  and follow the step by step installation.
 2. Set your gopath by opening the terminal and run echo $GOPATH
 
-Step 2
+**Step 2**
 
 1. Clone this repository by running 
 git clone https://github.com/ssvergara/invoice.git
@@ -23,7 +23,7 @@ git clone https://github.com/ssvergara/invoice.git
 3. Create a folder named Fabcar under fabric-samples/  and paste the files we copied earlier.
 
 
-Output
+**Output**
 
 	fabric-samples/
                 |-Fabcar
@@ -44,7 +44,7 @@ Output
 6. Inside the cloned repository, under chaincode, Copy the go folder and paste it on to fabric-samples/chaincode/
 
 
-Output
+**Output**
 
 	fabric-samples/
 		|- chaincode
@@ -56,13 +56,17 @@ Output
 
 
 
-Step 3.
+**Step 3.**
 
 Open terminal and go to this directory fabric-samples/Fabcar/
 Start the fabric  ./openFabric.sh
-Run npm install to create the modules.
+
+Run npm install to create the modules
+
 Run enrollAdmin.js
+
 Run node mainregisteruser.js
+
 Run node appmain.js
 
 Output 
