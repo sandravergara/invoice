@@ -289,7 +289,7 @@ paidAmount
 ![localhost 3007 put gr](https://user-images.githubusercontent.com/44419783/52931683-30466780-3388-11e9-8e5e-528d00877630.PNG)
 
 
-Step 4 | Transaction Log
+**Step 4 | Transaction Log**
 
 Open the Insomnia Rest Client. Choose the function GET and enter the localhost:3000
 
