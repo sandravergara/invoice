@@ -25,18 +25,18 @@ Create a folder named Fabcar under fabric-samples/  and paste the files we copie
 
 Output
 	fabric-samples/
-                      |-Fabcar
+                |-Fabcar
 		|- openFabric.sh
 		|--enrollAdmin.js
-|---mainregisteruser.js
-|---1stparticipantUser.js
-|---2ndparticipantUser.js
-|--- OEM.js
-|---bankuser.js
-|---appmain.js
-|---app1stparticipant.js
-|---appOEM.js
-|---appBank.js
+		|---mainregisteruser.js
+		|---1stparticipantUser.js
+		|---2ndparticipantUser.js
+		|--- OEM.js
+		|---bankuser.js
+		|---appmain.js
+		|---app1stparticipant.js
+		|---appOEM.js
+		|---appBank.js
 
 4. Create a folder fabcar under fabric-samples/chaincode/
 5. Make a new folder go.
@@ -47,9 +47,9 @@ Output
 
 	fabric-samples/
 		|- chaincode
-                      |-fabcar
+                |-fabcar
 		|--go
-|---scm.go
+		|---scm.go
 
 
 
@@ -65,6 +65,14 @@ Run node mainregisteruser.js
 Run node appmain.js
 
 Output 
+
+
+
+
+
+
+
+
 Step 4 
 
 Test the endpoints using Insomnia REST Client. [Download Insomnia REST Client here: https://insomnia.rest/download/ ]
