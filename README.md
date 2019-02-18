@@ -170,9 +170,9 @@ paidAmount
 
 5. Create a new tab and choose the function PUT and enter the localhost:3000/invoice. Create the parameters and create your own invoices and click Send;
 
-**OEM repays to Bank
+**OEM repays to Bank**
 
-Parameters**
+**Parameters**
 
 invoiceNumber
 
