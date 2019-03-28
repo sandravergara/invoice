@@ -19,7 +19,7 @@ Installing the prerequisites
 **Step 2**
 
 1. Clone this repository by running 
-git clone https://github.com/ssvergara/invoice.git
+**git clone https://github.com/ssvergara/invoice.git**
 2. Open the Fabcar folder and copy all the files except the node modules
 3. Create a folder named Fabcar under fabric-samples/  and paste the files we copied earlier.
 
